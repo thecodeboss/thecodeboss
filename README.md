@@ -1,4 +1,4 @@
-<img align="left" width="300" src="https://github.com/thecodeboss/thecodeboss/blob/main/hi.png?raw=true">
+<img align="left" width="300" src="hi.png">
 
 ## I'm Michael Oliver
 
